@@ -2,6 +2,8 @@
 
 My name is Drake Hughes and I am currently a junior in high school. I love coding, and this github page is a colelction of some of the projects I have worked on.
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrakeH5)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrakeH5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
