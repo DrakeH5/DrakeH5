@@ -2,7 +2,7 @@
 
 My name is Drake Hughes and I am currently a junior in high school. I love coding, and this github page is a colelction of some of the projects I have worked on.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrakeH5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrakeH5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DrakeH5/DrakeH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
