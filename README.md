@@ -4,7 +4,7 @@ My name is Drake Hughes and I am currently a junior in high school. I love codin
 
 ---
 
-<div background-color="blue">
+<div style="background-color: blue">
 Languges/Experiance/Technologies:
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
