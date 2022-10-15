@@ -24,6 +24,8 @@ Languges/Experiance/Technologies:
 <br></br>
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag892enyhlgi98i9r3ppbeh5n&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrakeH5)](https://github.com/anuraghazra/github-readme-stats)
 
 
