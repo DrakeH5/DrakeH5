@@ -28,7 +28,7 @@ Languges/Experiance/Technologies:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrakeH5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![github wordle](https://github.com/DrakeH5/Wordle/output.html)](https://github.com/DrakeH5/Wordle/wordle.js)
+[![github wordle](https://raw.githubusercontent.com/DrakeH5/Wordle/main/output.html)](https://github.com/DrakeH5/Wordle)
 
 <!--
 **DrakeH5/DrakeH5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
