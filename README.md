@@ -28,6 +28,84 @@ Languges/Experiance/Technologies:
 
 ---
 
+<h1>Noteworthy Projects</h1>
+
+## Full Stack
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/basic-socialmedia-template">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=basic-socialmedia-template&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/DrakeHughesBlog">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=DrakeHughesBlog&hide_border=true&theme=dark">
+	</a>
+</p>
+
+
+## Ironman Inspired
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/CAD-Gesture-Control-">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=CAD-Gesture-Control-&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/S.A.M.-JS-Personal-Assistant-">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=S.A.M.-JS-Personal-Assistant-&hide_border=true&theme=dark">
+	</a>
+</p>
+
+## Games I Made For Teaching Coding
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/Mario-9-weeks-Coding-Lessons">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Mario-9-weeks-Coding-Lessons&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/Minecraft-Three.js-Summer-Camp-lesson-plans-">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Minecraft-Three.js-Summer-Camp-lesson-plans-&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/Fruit-Ninja-Lesson-Plans">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Fruit-Ninja-Lesson-Plans&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/Tower-Defense-Game-Lesson-Plans">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Tower-Defense-Game-Lesson-Plans&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/Arcade-Games-Lesson-Plans">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Arcade-Games-Lesson-Plans&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/Three.js-Game">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Three.js-Game&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/DrakeH5/JS-Falppy-Bird-Tutorial-Series">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=JS-Falppy-Bird-Tutorial-Series&hide_border=true&theme=dark">
+	</a>
+</p>
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag892enyhlgi98i9r3ppbeh5n&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrakeH5)](https://github.com/anuraghazra/github-readme-stats)
