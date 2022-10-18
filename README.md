@@ -59,7 +59,9 @@ Languges/Experiance/Technologies:
 	</a>
 </p>
 
-## Games I Made For Teaching Coding
+#
+<details>
+<summary><h3>Games I Made For Teaching Coding</h3></summary>
 
 <p align="center">
 	<a href="https://github.com/DrakeH5/Mario-9-weeks-Coding-Lessons">
@@ -104,6 +106,7 @@ Languges/Experiance/Technologies:
 </p>
 
 
+</details>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag892enyhlgi98i9r3ppbeh5n&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
