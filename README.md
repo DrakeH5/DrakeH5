@@ -61,7 +61,9 @@ Languges/Experiance/Technologies:
 
 #
 <details>
-<summary><h3>Games I Made For Teaching Coding</h3></summary>
+<summary>
+## Games I Made For Teaching Coding
+</summary>
 
 <p align="center">
 	<a href="https://github.com/DrakeH5/Mario-9-weeks-Coding-Lessons">
