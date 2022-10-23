@@ -62,7 +62,7 @@ Languges/Experiance/Technologies:
 #
 <details>
 <summary>
-	<h2> Games I Made For Teaching Coding </h2>
+	<h2> Games I Made To Teach Coding </h2>
 </summary>
 
 <p align="center">
