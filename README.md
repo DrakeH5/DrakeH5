@@ -115,6 +115,16 @@ Languges/Experiance/Technologies:
 
 
 <!--START_SECTION:waka-->
+
+```text
+Python       6 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.31 %
+JavaScript   3 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.54 %
+C#           1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+HTML         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Git          48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+```
+
 <!--END_SECTION:waka-->
 
 
