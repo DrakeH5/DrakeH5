@@ -117,12 +117,12 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 hrs 33 mins  █████████████▒░░░░░░░░░░░   52.84 %
-Python       6 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-TypeScript   2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Git          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JavaScript   11 hrs 51 mins  █████████████░░░░░░░░░░░░   52.56 %
+Python       6 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+TypeScript   3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Git          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
