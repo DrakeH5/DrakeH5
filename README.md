@@ -110,6 +110,8 @@ Languges/Experiance/Technologies:
 
 </details>
 
+---
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag892enyhlgi98i9r3ppbeh5n&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
