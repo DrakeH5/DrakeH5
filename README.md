@@ -119,12 +119,12 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-Go           3 hrs 32 mins   ████████████▒░░░░░░░░░░░░   49.70 %
-JavaScript   3 hrs 9 mins    ███████████░░░░░░░░░░░░░░   44.28 %
-TypeScript   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Git          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Go           6 hrs 5 mins    ███████████████▓░░░░░░░░░   62.82 %
+JavaScript   3 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.56 %
+TypeScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
