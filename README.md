@@ -62,8 +62,8 @@ Languges/Experiance/Technologies:
 ## Interesting
 
 <p align="center">
-	<a href="https://github.com/DrakeH5/Enigma-Machine">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Enigma-Machine&hide_border=true&theme=dark">
+	<a href="https://github.com/DrakeH5/Engima-Machine">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Engima-Machine&hide_border=true&theme=dark">
 	</a>
 </p>
 
