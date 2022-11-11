@@ -63,13 +63,13 @@ Languges/Experiance/Technologies:
 
 <p align="center">
 	<a href="https://github.com/DrakeH5/Enigma-Machine">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=basic-socialmedia-template&hide_border=true&theme=dark">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Enigma-Machine&hide_border=true&theme=dark">
 	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/DrakeH5/Chess-Engine">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=DrakeHughesBlog&hide_border=true&theme=dark">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=Chess-Engine&hide_border=true&theme=dark">
 	</a>
 </p>
 
