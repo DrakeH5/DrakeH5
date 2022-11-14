@@ -45,6 +45,12 @@ Languges/Experiance/Technologies:
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://github.com/DrakeH5/SmartStocks">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=SmartStocks&hide_border=true&theme=dark">
+	</a>
+</p>
+
 
 ## Ironman Inspired
 
