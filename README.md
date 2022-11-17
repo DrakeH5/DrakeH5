@@ -144,11 +144,10 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-Go           6 hrs 13 mins   ████████████████████████▓   98.50 %
-Git          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Go           5 hrs 34 mins   ████████████████████████▓   98.76 %
+Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
