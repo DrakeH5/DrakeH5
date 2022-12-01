@@ -144,10 +144,7 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-HTML         1 hr 15 mins    ████████████▓░░░░░░░░░░░░   50.84 %
-Go           1 hr 11 mins    ████████████░░░░░░░░░░░░░   48.36 %
-Git          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
