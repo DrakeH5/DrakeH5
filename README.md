@@ -150,11 +150,9 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 31 mins   ████████████████████░░░░░   80.60 %
-C++          33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   2 hrs 29 mins   ██████████████████████▓░░   91.16 %
+Git          14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
