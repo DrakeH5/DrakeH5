@@ -36,6 +36,12 @@ Languges/Experiance/Technologies:
 ## Full Stack
 
 <p align="center">
+	<a href="https://github.com/DrakeH5/liftingLog">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=liftingLog&hide_border=true&theme=dark">
+	</a>
+</p>
+
+<p align="center">
 	<a href="https://github.com/DrakeH5/basic-socialmedia-template">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=DrakeH5&repo=basic-socialmedia-template&hide_border=true&theme=dark">
 	</a>
