@@ -3,7 +3,7 @@
  (2B || !2B) = theQuestion
 </h1>
 
-<center><img src="E765B91C-941F-4813-BCF3-AAE34CE586B3.jpeg" width="100%" /></center>
+
 
 My name is Drake Hughes and I am currently a junior in high school. I love coding, and this github page is a collection of some of the projects I have worked on.
 
