@@ -156,8 +156,7 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          ████████████▓░░░░░░░░░░░░   50.08 %
-Python       0 secs          ████████████▒░░░░░░░░░░░░   49.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
