@@ -156,11 +156,9 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 41 mins   ███████████████████▒░░░░░   77.19 %
-YAML         1 hr            █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python   5 hrs 19 mins   █████████████████████████   99.36 %
+Git      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
