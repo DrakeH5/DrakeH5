@@ -156,11 +156,11 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```text
-Python       13 hrs 7 mins   ███████████████████████▓░   94.21 %
-JavaScript   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Git          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python       10 hrs 44 mins  ███████████████████████▒░   93.19 %
+JavaScript   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
