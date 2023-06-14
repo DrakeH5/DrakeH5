@@ -156,7 +156,8 @@ Languges/Experiance/Technologies:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   45 mins         ████████████████████████▓   99.22 %
+Git      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
