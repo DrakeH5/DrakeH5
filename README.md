@@ -5,7 +5,7 @@
 
 
 
-My name is Drake Hughes and I am currently a junior in high school. I love coding, and this github page is a collection of some of the projects I have worked on.
+My name is Drake Hughes and I am currently a senior in high school. I love coding, and this github page is a collection of some of the projects I have worked on.
 
 ---
 
